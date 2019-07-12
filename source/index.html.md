@@ -1,11 +1,12 @@
 ---
-title: API Reference
+title: REG KKU API V1.0
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
   - ruby
   - python
   - javascript
+  - php
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
