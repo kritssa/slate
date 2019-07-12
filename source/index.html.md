@@ -2,7 +2,6 @@
 title: REG KKU API V1.0
 
 language_tabs: # must be one of https://git.io/vQNgJ
-  - shell
   - ruby
   - python
   - javascript
